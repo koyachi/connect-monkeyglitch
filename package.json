@@ -1,0 +1,15 @@
+{
+  "author": "koyachi <rtk2106@gmail.com>",
+  "name": "connect-monkeyglitch",
+  "description": "A monkey glitch filter for Connect",
+  "version": "0.0.1",
+  "repository": {
+    "url": ""
+  },
+  "engines": {
+    "node": "0.6.8"
+  },
+  "dependencies": {},
+  "devDependencies": {},
+  "optionalDependencies": {}
+}
