@@ -22,8 +22,8 @@ connect(
 
 ## about 'Monkey Glitch'
 
-- (Visual Glitch, using Ruby | RubyKaigi 2011(July 16 - 18))[http://rubykaigi.org/2011/en/schedule/details/18S02]
-- (蒸し蒸しした曇り空 - ずっと君のターン)[http://d.hatena.ne.jp/technohippy/20110806#1312604810]
+- [Visual Glitch, using Ruby | RubyKaigi 2011(July 16 - 18)](http://rubykaigi.org/2011/en/schedule/details/18S02)
+- [蒸し蒸しした曇り空 - ずっと君のターン](http://d.hatena.ne.jp/technohippy/20110806#1312604810)
 
 ## License 
 
